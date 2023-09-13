@@ -19,7 +19,7 @@ export default function App() {
               href=" https://github.com/LizzieMac209/dictionary-react-app-project "
               target="_blank"
             >
-              Lizzie Macfarlane
+              Lizzie Macfarlane 🪷
             </a>
           </small>
         </footer>
